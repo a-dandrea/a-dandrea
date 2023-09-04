@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @a-dandrea
+- 👋 Hi, I’m Alexa
 - 👀 I’m interested in: cryptography
 - 🌱 I’m currently learning: Python, C/C++
-- 💞️ I’m looking to collaborate on (nothing right now)
+- 💞️ I’m looking to collaborate on: nothing right now
 - 📫 How to reach me: adandrea21@gmail.com
 - 🫶 Pronouns: she/her
 
