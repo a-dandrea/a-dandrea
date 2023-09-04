@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @a-dandrea
-- 👀 I’m interested in cryptography
-- 🌱 I’m currently learning c/c++
+- 👀 I’m interested in: cryptography
+- 🌱 I’m currently learning: Python, C/C++
 - 💞️ I’m looking to collaborate on (nothing right now)
-- 📫 How to reach me legally a robot (on discord)
+- 📫 How to reach me: adandrea21@gmail.com
+- 🫶 Pronouns: she/her
 
 <!---
 a-dandrea/a-dandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
