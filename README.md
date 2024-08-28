@@ -1,9 +1,9 @@
 Hi!! I'm Alexa!
 - - - - - - - -
-I'm a senior in college, pursuing a B.S. in Math and a B.S. in Computer Science.
+I'm a senior in college, pursuing a B.S. in Math and a B.S. in Computer Science. <br/>
 I'm currently doing research on AI and algorithms.
 - - - - - - - -
-Contact: \n
+Contact Me: <br/>
 Email: adandrea1203@gmail.com
 
 <!---
