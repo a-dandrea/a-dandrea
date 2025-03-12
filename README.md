@@ -4,7 +4,7 @@ I'm a senior in college, pursuing a B.S. in Math and a B.S. in Computer Science.
 I'm currently doing research on AI and algorithms.
 - - - - - - - -
 Contact Me: <br/>
-Email: adandrea1203@gmail.com
+Email: adandrea1203@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/alexa-dandrea/
 
 <!---
