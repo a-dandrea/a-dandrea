@@ -5,6 +5,7 @@ I'm currently doing research on AI and algorithms.
 - - - - - - - -
 Contact Me: <br/>
 Email: adandrea1203@gmail.com
+LinkedIn: https://www.linkedin.com/in/alexa-dandrea/
 
 <!---
 a-dandrea/a-dandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
